@@ -48,9 +48,9 @@ const Hero = () => {
             <br />
             - 😄 Worked professionally as a chef 😄 
             <br />
-            - 🎶 Music production: <a href="http://www.soundcloud.com/krishanromeda">[LINK] Some of my music productions</a>
+            - 🎶 Music production: <a href="http://www.soundcloud.com/krishanromeda">[SOUNDCLOUD]</a>
             <br/>
-            - 🙌 Dj'ing: <a href="http://www.mixcloud.com/krishanromeda">[LINK] Some of my DJ-sets</a>
+            - 🙌 Dj'ing: <a href="http://www.mixcloud.com/krishanromeda">[MIXCLOUD]</a>
             <br />
             - ⚡ Fun facts: Likes to travel and explore
             <br />

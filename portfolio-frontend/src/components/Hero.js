@@ -38,17 +38,19 @@ const Hero = () => {
             <h4>Student</h4>
             - 🔭 Learning software development
             <br />
-            - 🌱 C#, C/C++, Pascal, Basic, HTML, CSS, Javascript...
+            - 🌱 Earlier: C, C++, Pascal, Basic (and D.O.S. / Batch)
             <br />
-            - 🤔 Backend and Frontend
+            - ✨ Now: C#, ASP.NET Core, SQL, CSS, HTML, Javascript etc.
+            <br/>
+            - 😍 Backend and Frontend
             <br />
             - 💬 Ask me about music production
             <br />
             - 😄 Worked professionally as a chef 😄 
             <br />
-            - 💜 <a href="http://www.soundcloud.com/krishanromeda">[LINK] Some of my music productions</a>
+            - 🎶 Music production: <a href="http://www.soundcloud.com/krishanromeda">[LINK] Some of my music productions</a>
             <br/>
-            - 💜 <a href="http://www.mixcloud.com/krishanromeda">[LINK] Some of my DJ-sets</a>
+            - 🙌 Dj'ing: <a href="http://www.mixcloud.com/krishanromeda">[LINK] Some of my DJ-sets</a>
             <br />
             - ⚡ Fun facts: Likes to travel and explore
             <br />

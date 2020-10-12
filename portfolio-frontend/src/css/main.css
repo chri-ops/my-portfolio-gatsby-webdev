@@ -26,9 +26,9 @@ Variables
   --clr-primary-9: hsl(185, 94%, 87%);
   --clr-primary-10: hsl(186, 100%, 94%);
   /* darkest grey - used for headings */
-  --clr-grey-1: hsl(192, 50%, 48%);
+  --clr-grey-1: hsl(0, 0%, 86%);
   /* --clr-grey-1: hsl(209, 61%, 16%); */
-  --clr-grey-3: hsl(209, 34%, 30%);
+  --clr-grey-3: hsl(0, 0%, 75%);
   --clr-grey-4: hsl(209, 28%, 39%);
   /* grey used for paragraphs */
   --clr-grey-5: hsl(210, 22%, 49%);
@@ -414,7 +414,7 @@ Hero
 .hero {
   margin-top: -5rem;
   padding-top: 5rem;
-  height: 100vh;
+  height: 70vh;
   /* background: var(--clr-primary-10); */
   position: relative;
 }
@@ -583,9 +583,9 @@ Jobs
   color: var(--clr-primary-5);
   box-shadow: 0 2px var(--clr-primary-5);
 }
-.job-info {
+/* .job-info {
   min-height: 420px;
-}
+} */
 .job-info h3 {
   font-weight: 400;
 }
@@ -965,11 +965,12 @@ Contact Page
   padding: 5rem 0;
 }
 .contact-form {
-  /* background: var(--clr-white); */
-  /* border-radius: var(--radius); */
+  background: #242424;
+  border-radius: var(--radius);
   text-align: center;
   /* box-shadow: var(--light-shadow);
   transition: var(--transition); */
+
   width: 90vw;
   max-width: 35rem;
 }
@@ -978,7 +979,7 @@ Contact Page
 }
 .contact-form h3 {
   padding-top: 1.25rem;
-  color: var(--clr-grey-5);
+  color: var(--clr-grey-1);
 }
 .form-group {
   padding: 1rem 1.5rem;

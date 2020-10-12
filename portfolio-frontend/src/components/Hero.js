@@ -31,14 +31,12 @@ const Hero = () => {
       <div className="section-center hero-center">
         <article className="hero-info">
           <div>
-            <h2>Krishan Romeda</h2>
-            <h4>Real name: Christian Romedahl</h4>
-            <h5>Page in English, but I'm Swedish 😊</h5>
+            <h2>Christian Romedahl</h2>
             <div className="underline"></div>
             <h4>Student</h4>
-            - 🔭 Learning software development
+            - 🔭 Learning software development @ <a href="https://www.tucsweden.se/">TUC Sweden</a>
             <br />
-            - 🌱 Earlier: C, C++, Pascal, Basic (and D.O.S. / Batch)
+            - 🌱 Earlier: C++, C, Pascal, Basic, MS-DOS, etc.
             <br />
             - ✨ Now: C#, ASP.NET Core, SQL, CSS, HTML, Javascript etc.
             <br/>
@@ -48,9 +46,9 @@ const Hero = () => {
             <br />
             - 😄 Worked professionally as a chef 😄 
             <br />
-            - 🎶 Music production: <a href="http://www.soundcloud.com/krishanromeda">[SOUNDCLOUD]</a>
+            - 🎶 Music production: <a href="http://www.soundcloud.com/krishanromeda">[ Soundcloud ]</a>
             <br/>
-            - 🙌 Dj'ing: <a href="http://www.mixcloud.com/krishanromeda">[MIXCLOUD]</a>
+            - 🙌 Dj'ing: <a href="http://www.mixcloud.com/krishanromeda">[ Mixcloud ]</a>
             <br />
             - ⚡ Fun facts: Likes to travel and explore
             <br />

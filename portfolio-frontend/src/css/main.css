@@ -437,7 +437,7 @@ Hero
 }
 .hero-img {
   display: none;
-  border-radius: 2%;
+  border-radius: 1%;
   height: 42%;
   width: 42%;
   box-shadow: 32 32 32px 32px white inset;
@@ -484,7 +484,7 @@ Hero
     grid-row: 3/1;
     grid-column: 15/8;
     width: 70%;
-    border-radius: 1%;
+    border-radius: 2%;
   }
 }
 @media screen and (min-width: 1170px) {

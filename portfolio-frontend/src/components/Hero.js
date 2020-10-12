@@ -34,7 +34,7 @@ const Hero = () => {
             <h2>Christian Romedahl</h2>
             <div className="underline"></div>
             <h4>Student</h4>
-            - 🔭 Learning software development @ <a href="https://www.tucsweden.se/">TUC Sweden</a>
+            - 🔭 Learning software development @ <a href="https://www.tucsweden.se/">[ TUC Sweden ]</a>
             <br />
             - 🌱 Earlier: C++, C, Pascal, Basic, MS-DOS, etc.
             <br />

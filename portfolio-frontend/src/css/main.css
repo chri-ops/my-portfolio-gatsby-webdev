@@ -185,10 +185,11 @@ p {
   margin-bottom: 4rem;
   text-align: center;
 }
-/* .bg-grey {
-  background: var(--clr-grey-10);
+.bg-grey {
+  /* background: var(--clr-grey-10); */
+  margin-top: 8%;
   
-} */
+}
 /* page links */
 
 /* social links */
@@ -472,11 +473,18 @@ Hero
   .hero-info {
     grid-row: 1/1;
     grid-column: 1 / span 8;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
   .hero-img {
     display: block;
-    grid-row: 1/1;
-    grid-column: 6/-1;
+    grid-row: 3/1;
+    grid-column: 15/8;
+    width: 70%;
+    border-radius: 1%;
   }
 }
 @media screen and (min-width: 1170px) {
@@ -485,7 +493,7 @@ Hero
   }
 
   .hero-info {
-    grid-column: 1 / span 8;
+    grid-column: 1 / span 12;
   }
 
   .hero h4 {
@@ -553,9 +561,12 @@ Jobs
 */
 
 .jobs-center {
-  width: 80vw;
+  /* width: 80vw; */
   margin: 0 auto;
   max-width: var(--max-width);
+  background: #000000;
+  border-radius: 1%;
+  padding: 2%;
 }
 .btn-container {
   display: flex;
@@ -574,6 +585,7 @@ Jobs
   cursor: pointer;
   padding: 0.25rem 0;
   line-height: 1;
+  color: var(--clr-grey-4);
 }
 .job-btn:hover {
   color: var(--clr-primary-5);

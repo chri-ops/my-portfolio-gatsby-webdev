@@ -31,7 +31,7 @@ const Hero = () => {
       <div className="section-center hero-center">
         <article className="hero-info">
           <div>
-            <h2>Christian Romedahl!!!</h2>
+            <h2>Christian Romedahl TEST CHANGE</h2>
             <div className="underline"></div>
             <h4>🌞💥✨</h4>
             - ✨ Born and raised in Sweden. Speaks swedish and english. 💕

@@ -39,7 +39,8 @@
         "Sports",
         "Programming",
         "Music",
-        "Food"
+        "Food",
+        "Events"
       ],
       "required": true
     },

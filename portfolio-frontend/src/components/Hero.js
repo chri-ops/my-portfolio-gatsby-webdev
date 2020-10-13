@@ -34,13 +34,15 @@ const Hero = () => {
             <h2>Christian Romedahl</h2>
             <div className="underline"></div>
             <h4>🌞💥✨</h4>
+            - ✨ Born and raised in Sweden. Speaks swedish and english. 💕
+            <br />
             - 👨‍🎓 Learning software development @ <a href="https://www.tucsweden.se/">[ TUC Sweden ]</a>
             <br />
-            - 🌱 Earlier: C++, C, Pascal, Basic, MS-DOS, etc.
+            - 😍 Attaining skills in Backend and Frontend dev.
             <br />
             - ✨ Now: C#, ASP.NET Core, SQL, CSS, HTML, Javascript etc.
             <br/>
-            - 😍 Attaining skills in Backend and Frontend development.
+            - 🌱 Earlier: C++, C, Pascal, Basic, MS-DOS, etc.
             <br />
             - 💬 Ask me about music production
             <br />

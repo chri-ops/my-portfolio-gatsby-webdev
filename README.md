@@ -40,14 +40,14 @@ ser att man kan bläddra nedåt.
 - Jag fick även feedback från Sohail under online-lektion. Skrev upp alla punkter som togs upp, och
 ändrade utifrån dem:
 
-v Uppdatera Validator card (twitter-img.png)
-v Ändra WebDev-iconen: gör en egen i Photoshop t.ex. och ersätt!
-v Ta bort required på fält som inte behöver vara det (url:er osv)
-v Fixa en 'normal' bild till hemsidan!
-v En fjärde artikel som inte visas under Latest articles! Precis som i featured för projects
-v Fixa rubriker i de enskilda Bloggarna, de ska inte vara så stora (H1) utan mindre rubriker..
-v Mer info i vissa sektioner - fyll ut med info i de 'korta' texterna!
-(v) MY CV, där ska det vara mer ett utdrag av CV't, inte bara en mening.
+1. Uppdatera Validator card (twitter-img.png)
+2. Ändra WebDev-iconen: gör en egen i Photoshop t.ex. och ersätt!
+3. Ta bort required på fält som inte behöver vara det (url:er osv)
+4. Fixa en 'normal' bild till hemsidan!
+5. En fjärde artikel som inte visas under Latest articles! Precis som i featured för projects
+6. Fixa rubriker i de enskilda Bloggarna, de ska inte vara så stora (H1) utan mindre rubriker..
+7. Mer info i vissa sektioner - fyll ut med info i de 'korta' texterna!
+8. MY CV, där ska det vara mer ett utdrag av CV't, inte bara en mening.
 
 - Jag ändrade alla punkter, förutom möjligtvis den sista; där jag själv valt att inte skriva ut
 hela mitt CV på sidan, utan håller det väldigt enkelt i texten, och hänvisar till att man

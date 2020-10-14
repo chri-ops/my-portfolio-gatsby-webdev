@@ -58,7 +58,7 @@ från utomstående, och man kan enkelt hålla med om alla punkter som tas upp, o
 en efter en. Efter detta känns sidan mycket helare, renare och tydligare. Är personligen
 mycket nöjd med resultatet!
 
-Jag vet inte om jag behvöer gå in i detalj varför man motiverar vissa val i designen
+Jag vet inte om jag behöver gå in i detalj varför man motiverar vissa val i designen
 för att underlätta användarvänligheten, men några punkter jag kan nämna som jag
 jobbat med är:
 

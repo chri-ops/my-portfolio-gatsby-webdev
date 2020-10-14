@@ -20,7 +20,7 @@
 
 Following are swedish notes for the exam:
 
-## TENTA-UPPGIFT 4:
+## Tentamen Uppgift 4:
 
 - Som jag tolkade uppgiften (den 4:e) så skulle vi låta någon se igenom hemsidan och ge feedback.
 - Jag valde att länka sidan i ett e-mail till Angelika (utbildningsledare) och hon gav följande
